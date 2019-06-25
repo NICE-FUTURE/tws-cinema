@@ -1,0 +1,23 @@
+{
+  "name": "tws-cinema",
+  "version": "1.0.0",
+  "description": "## 实现过程 - 使用 mongoimport 命令将 csv 数据导入到 mongodb 数据库中",
+  "main": "movies-json-data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NICE-FUTURE/tws-cinema.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NICE-FUTURE/tws-cinema/issues"
+  },
+  "homepage": "https://github.com/NICE-FUTURE/tws-cinema#readme",
+  "dependencies": {
+    "mongodb": "^3.2.7"
+  }
+}
